@@ -1,4 +1,4 @@
-# Readme
+# README
 It's a tensorflow implementation of AAAI2021 paper "Learning Representation for Incomplete Time-series Clustering".
 
 Qianli Ma, Chuxin Chen, and Sen Li equally contributed to this work.
